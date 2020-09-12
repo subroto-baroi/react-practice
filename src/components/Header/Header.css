@@ -9,26 +9,21 @@
 }
 
 .header nav{
-    background-color: #F1573E;
+    background-color: black;
     line-height: 46px;
     font-size:22px;
-    font-weight: bold;
-    text-align: left;
+    
+    
+    
     
  
 }
 
 nav a {
     text-decoration: none;
-    color: black;
+    color: white;
     margin-right: 25px;
     padding: 6px;
     
 }
 
-nav a:hover{
-    background-color: #D0C0BA;
-    border: 1px solid lightgray;
-    border-radius: 50px;
-    color: #D23888;
-}
